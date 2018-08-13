@@ -1,4 +1,5 @@
 # devops-aula02
 # Gloria Pires
-# Rodrigo Santoro
+# Bruna Marquezine
 # Wagner Moura
+# Marina Ruy Barbosa
